@@ -11,11 +11,3 @@ REACT_APP_NET_SCAN_BASE=https://mumbai.polygonscan.com/address/ (or your selecte
 3. Then run: `npm start`
 
 - Note that we are using our gateway to deploy and interact with the blockchain with graphql
-
-## Learn More About Cedalio
-
-To learn more about Cedalio, take a look at the following resources:
-
-- [Cedalio](https://cedalio.com/) - learn about Cedalio Features and Roadmap.
-
-- [Cedalio Docs](https://docs.cedalio.com/) - learn about Cedalio Architecture and CLI.
