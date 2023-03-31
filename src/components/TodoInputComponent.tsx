@@ -25,9 +25,9 @@ const CREATE_TODO = gql`
             id
             title
             description
+            tags
             priority
             owner
-            tags
             status
         }
     }
