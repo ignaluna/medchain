@@ -1,29 +1,43 @@
-# Cedalio ⨯ To-Do dApp Single Data Base Example
+# [MedChain](http://127.0.0.1:8080/graphql)
 
-[Join our Discord Community](https://discord.gg/kSdhmb9UUT)
 
-[![Deploy to Cedalio](https://cedalio.com/images/deploy-schema-button-small.png)](https://docs.cedalio.com/introduction/getting-started/download-the-cli)
 </br>
 
 ## 💫 About us:
 
-1. [Install Cedalio CLI](https://docs.cedalio.com/quickstart/getting-started/download-cli#download-and-install-cli)
-2. Export the wallet that would be the owner of the schema `export PRIVATE_KEY='your-private-key'`
-3. Deploy ToDo Schema `bifrost deploy --schema-file todo.graphql --network polygon-mumbai --schema-name todo-v1`
-4. Serve your schema `bifrost serve --schema-name todo-v1`
-5. Create a `.env.development` with the smart contract address for this deployment from the sterp 3.
+The [ABA Dream Team](https://americaba.org/) initiative proposes the use of blockchain technology for issuing online medical prescriptions, allowing registered doctors to issue digital prescriptions that are stored on the blockchain, ensuring the security and protection of patient data. The digital pharmaceutical platform will deliver the medications to the patient's doorstep, limiting contact between patients and doctors. The adoption of blockchain technology in the healthcare sector in Latin America has accelerated during the COVID-19 pandemic, enabling process improvements in the healthcare sector.
+
+</br>
+
 ```
-REACT_APP_WC_PROJECT_ID=WALLET-CONNECT-ID
-GENERATE_SOURCEMAP=false
-REACT_APP_CONTRACT_ADDRESS=SMART-CONTRACT-ADDRESS
-REACT_APP_GRAPHQL_ENDPOINT=http://127.0.0.1:8080/graphql (if you are running the local `serve` command)
+Testing 2
+
 ```
-6. Then run: `npm start`
 
-## Learn More About Cedalio
+## Contac us
 
-To learn more about Cedalio, take a look at the following resources:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-- [Cedalio](https://cedalio.com/) - learn about Cedalio Features and Roadmap.
+</br>
 
-- [Cedalio Docs](https://docs.cedalio.com/) - learn about Cedalio Architecture and CLI.
+[![Martin Cano](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martin-canolik/)
+
+</br>
+
+[![Sol Estevez](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sol-gomez-estevez/)
+
+</br>
+
+[![Franco Rial](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/franco-antonio-rial/)
+
+</br>
+
+[![Ignacio Luna](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignaluna/)
+
+</br>
+
+[![Mery Wayferer](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marialauracalderero/)
+
+</br>
+
+[![Constantino Zito](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/constantino-zito-014140162/)
