@@ -25,11 +25,6 @@ Testing 2
 
 
 ## Contac us
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-</br>
-
 # Martin Cano 
 [![Martin Cano](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-canolik/)
 
@@ -39,6 +34,7 @@ Testing 2
 
 # Franco Rial
 [![Franco Rial](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-antonio-rial/)
+[![Github](https://img.shields.io/badge/-GitHub-lightgrey)](https://github.com/FranARB)
 
 
 # Ignacio Luna
