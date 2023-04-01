@@ -5,7 +5,7 @@
 [![Deploy to Cedalio](https://cedalio.com/images/deploy-schema-button-small.png)](https://docs.cedalio.com/introduction/getting-started/download-the-cli)
 </br>
 
-## Getting Started
+## 💫 About us:
 
 1. [Install Cedalio CLI](https://docs.cedalio.com/quickstart/getting-started/download-cli#download-and-install-cli)
 2. Export the wallet that would be the owner of the schema `export PRIVATE_KEY='your-private-key'`
@@ -27,6 +27,3 @@ To learn more about Cedalio, take a look at the following resources:
 - [Cedalio](https://cedalio.com/) - learn about Cedalio Features and Roadmap.
 
 - [Cedalio Docs](https://docs.cedalio.com/) - learn about Cedalio Architecture and CLI.
-
-
-testing
