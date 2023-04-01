@@ -6,17 +6,15 @@ import {
 } from "@web3modal/ethereum";
 import { Web3Modal } from "@web3modal/react";
 import { configureChains, createClient, WagmiConfig, useAccount } from "wagmi";
-import { polygonMumbai } from "wagmi/chains";
+import { hardhat } from "wagmi/chains";
 import { Web3Button } from "@web3modal/react";
-import ReactGA from 'react-ga';
 
 import Header from "./components/Header";
 import ListComponent from "./components/ListComponent";
 import Footer from "./components/Footer";
-const chains = [polygonMumbai];
+const chains = [hardhat];
 
 const projectId = String(process.env.REACT_APP_WC_PROJECT_ID)
-const TRACKING_ID = String(process.env.REACT_APP_TRACKING_ID)
 
 
 // Wagmi client
@@ -34,8 +32,8 @@ const ethereumClient = new EthereumClient(wagmiClient, chains);
 
 export default function App() {
   const projectId = String(process.env.REACT_APP_WC_PROJECT_ID)
-  const { address } = useAccount()
-  ReactGA.initialize(TRACKING_ID);
+  const address= "0xa0Ee7A142d267C1f36714E4a8F75612F20a79720"
+  // const { address } = useAccount()
   return (
     <>
       <div className="App">
